@@ -1,7 +1,7 @@
 <?php
 // health.php - 서비스 상태 점검
 
-$servername = "192.168.100.200";  // MySQL 서버 IP 주소
+$servername = "192.168.100.108";  // MySQL 서버 IP 주소
 $username = "bluebird_user";      // MySQL 사용자명
 $password = "password";           // MySQL 비밀번호
 $dbname = "bluebirdhotel";        // MySQL 데이터베이스 이름
