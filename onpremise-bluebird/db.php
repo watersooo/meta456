@@ -1,5 +1,5 @@
 <?php
-$servername = "10.0.0.145";
+$servername = "192.168.100.108";
 $username = "bluebird_user";
 $password = "password";
 $dbname = "bluebirdhotel";
